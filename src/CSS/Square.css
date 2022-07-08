@@ -1,0 +1,14 @@
+.Square{
+    border:solid 4px;
+    font-family: "ink free";
+    font-weight: bold;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.myBtn{
+    border:none;
+    background-color: none;
+}

@@ -1,0 +1,18 @@
+.headerclass{
+    font-family:"gill sans";
+    background-image:linear-gradient(to bottom left,green, yellow); 
+    text-align: center;
+    font-size: x-large;
+    border-bottom: inset;
+    color: black;
+    text-shadow: 0 0 4px #19fc00, 0 0 8px #bce91c;
+}
+
+.logo{
+    width: 6%;
+    margin:auto;
+}
+
+.white{
+    color:white;
+}

@@ -1,0 +1,35 @@
+.Board{
+    width:400px;
+    height: 400px;
+    margin:0 auto;
+    background-image:linear-gradient(to bottom left,green, yellow); 
+    color: rgb(255, 255, 255);
+    border:4px solid yellowgreen;
+    border-radius: 10px;
+    display:grid;
+    grid-template: 1fr 1fr 1fr/1fr 1fr 1fr;
+   
+    
+}
+
+.resetBtn{
+    margin: auto;
+    display:flex;
+    background-image:linear-gradient(to bottom left,green, yellow); 
+    font-size: 35px;
+    border-radius: 10px;
+
+}
+
+.resetBtn:hover{
+    color:white;
+    border-color:white;
+    cursor: pointer;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+    font-family: "Lucida Handwriting";
+    text-shadow: 0 0 4px #eb0a0a, 0 0 8px #f16262;
+}
